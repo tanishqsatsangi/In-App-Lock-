@@ -1,6 +1,6 @@
 # In-App-Lock-
 
-# Last Updated on: 22/12/2021
+Last Updated on: 22/12/2021
 A pilot project to demonstrate in app biometric features having finger print and device credential and authentication base.
 Presnetly using Biometric package to validate.
 
